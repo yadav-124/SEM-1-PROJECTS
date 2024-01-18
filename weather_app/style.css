@@ -1,0 +1,16 @@
+body {
+    background-image: url('asset/b.jpg');
+    background-repeat: no-repeat; /* Optional: Specify if the image should repeat */
+    background-size: cover; /* Optional: Specify how the image should be sized */
+    /* You can also add more background properties as needed */
+  }
+  
+.small-card {
+    max-width: 200px; /* Adjust the max-width as needed */
+    margin-left: auto; /* Adjust the margin as needed */
+    margin-right: auto;
+}
+
+.size{
+    width: auto;
+}
